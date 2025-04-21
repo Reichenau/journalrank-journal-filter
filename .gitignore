@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кэш и временные файлы
+*.pkl
+*.cache
+.DS_Store
+Thumbs.db
+
+# Файлы данных (при необходимости можно раскомментировать)
+# *.xlsx
+# *.csv
+# *.html
+
+# Виртуальное окружение
+venv/
+env/
+.env/
+
+# Логи
+*.log
+
+# Локальные настройки IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
